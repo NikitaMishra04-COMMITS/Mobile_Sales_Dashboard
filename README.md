@@ -1,8 +1,8 @@
 # 📊 Mobile Sales Dashboard – Power BI Project
-# 📌 Project Overview:
+## 📌 Project Overview:
 This project features a Power BI interactive dashboard built to analyze and visualize mobile phone sales data. It provides detailed insights into sales trends, customer behavior, and transaction patterns, enabling better business decisions through intuitive and dynamic visuals.
 
-# 📂 Dataset Description (Excel File):
+## 📂 Dataset Description (Excel File):
 The dataset used is in Excel format (.xlsx) and contains records of mobile phone sales.
 
 Key columns in the dataset include:
@@ -23,7 +23,7 @@ Transaction ID — Unique transaction identifier
 
 The data was cleaned and transformed using Power Query within Power BI for accuracy and consistency.
 
-# 🧩 Key Insights & Visuals in the Dashboard:
+## 🧩 Key Insights & Visuals in the Dashboard:
 📅 Month-wise Total Sales
 
 Bar chart to analyze monthly revenue trends.
@@ -58,14 +58,14 @@ Total Transactions
 
 Average Sales per Transaction
 
-# 🎯 Project Objectives:
+## 🎯 Project Objectives:
 Enable sales and marketing teams to monitor performance metrics.
 
 Identify high-performing time periods and optimize sales strategy.
 
 Improve understanding of customer preferences and payment behavior.
 
-# 🛠️ Tools & Technologies:
+## 🛠️ Tools & Technologies:
 Power BI Desktop
 
 Excel (.xlsx) as data source
@@ -76,7 +76,7 @@ DAX (Data Analysis Expressions) – For calculated measures and KPIs
 
 Slicers, Cards, and Charts – For interactive visualizations
 
-# 📁 Deliverables:
+## 📁 Deliverables:
 Mobile_Sales_Dashboard.pbix – Power BI dashboard file
 
 Mobile_Sales_Data.xlsx – Raw dataset used for analysis
